@@ -1,0 +1,20 @@
+{
+  "gallery": [
+    {
+      "caption": "My first legal beer!",
+      "img": "/static/images/beer.jpg"
+    },
+    {
+      "caption": "My brothers and my dad!",
+      "img": "/static/images/boys.jpg"
+    },
+    {
+      "caption": "Last day as a college student.",
+      "img": "/static/images/duluth.jpg"
+    },
+    {
+      "caption": "New York City",
+      "img": "/static/images/newyork.jpg"
+    }
+  ]
+}

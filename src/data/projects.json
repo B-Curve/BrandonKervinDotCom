@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "title": "YetAnotherSocialMediaApp",
+      "language": "Typescript, Angular 5, Socket.IO",
+      "description": "After making endless social media apps using tons of different frameworks, I decided to settle down and use Typescipt for literally everything. The node server is running with Typescript (ts-node transpiler), the chat server using socket.io is running with Typescipt and the frontend is using Typescript. It's great using the same language for everything because you get to use shared models between the front-end and back-end!",
+      "link": "https://github.com/B-Curve/YetAnotherSocialMediaApp"
+    },
+    {
+      "title": "Rust-Game",
+      "language": "Rust, OpenGL",
+      "description": "After working with C++ and OpenGL for several months, I figured why not pick up another low level language that can optimize gaming as well? Turns out Rust actually performs better than C++, but maybe that's because Rust is more user-friendly in terms of memory management haha. At this point, I'm pretty much just rendering a bunch of textured cubes so maybe Rust games scale better/worse!",
+      "link": "https://github.com/B-Curve/Rust-Game"
+    },
+    {
+      "title": "C++ Game",
+      "language": "C++, OpenGL",
+      "description": "After months of figuring out just how C++ even works (JavaScript background), I decided to start creating a very small-scale game. I'm not even sure you could call it a game though as there aren't any objectives, AI, unique assets, etc. But hey, it was a fun experience and it kind of led me think that maybe game development just isn't for me. My favorite part of programming is the problem solving aspect, but I feel like it takes too long to get that point when you are fighting with the OpenGL API and vector math.",
+      "link": "https://github.com/B-Curve/Cplusplus_Game"
+    },
+    {
+      "title": "Super Hero Sightings",
+      "language": "Typescript, Angular 4, Java",
+      "description": "This was a project that I did while enrolled at the Software Guild in Minneapolis, Minnesota. It was a 3  month java bootcamp where we learned a lot about the MVC pattern and several good practices for the industry. Honestly one of the best programming-related experiences of my life. Being surrounded by passionate developers that have a willingness to learn anything and teachers that have several years of experience makes for a great learning environment.",
+      "link": "https://github.com/B-Curve/SuperHero"
+    },
+    {
+      "title": "League of Legends React",
+      "language": "React, Java",
+      "description": "At one point in time, I was super big on League of Legends. I would play for like 4 hours everyday for a couple years. Never made it to challenger, but it was a ton of fun for a while! Anyways, I decided to make a stat tracker website using the developer api and it was actually a pretty fun project. Now that I think about it, not really sure why I used Java for the backend when there isn't really any service work going on haha.",
+      "link": "https://github.com/B-Curve/LeagueOfLegendsReact"
+    },
+    {
+      "title": "LifeBlog",
+      "language": "React, Java, Hibernate",
+      "description": "Another Software Guild project and my only project in the 50+ commit club! I can't take the credit for all of 54 of those commits though, I actually got the chance to work with a partner on this one. We mostly split up the  work to be me doing the JavaScript and she was doing the Java. This one took about 3 weeks and we actually didn't finish it entirely because we were trying to make it look real good, and it sure did!",
+      "link": "https://github.com/B-Curve/LifeBlog"
+    }
+  ]
+}
