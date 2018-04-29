@@ -3,6 +3,7 @@ import ExpansionPanel, {
   ExpansionPanelSummary,
   ExpansionPanelDetails
 } from 'material-ui/ExpansionPanel';
+import Button from 'material-ui/Button';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import Typography from 'material-ui/Typography';
 import data from '../data/projects.json';
@@ -31,6 +32,10 @@ const ProjectList = () => (
         <ExpansionPanelDetails>
           <Typography>
             {item.description}
+            <br /><br /><br />
+            <a href={item.link} target="_blank">
+              <Button variant="raised" color="primary">Visit</Button>
+            </a>
           </Typography>
         </ExpansionPanelDetails>
       </ExpansionPanel>
